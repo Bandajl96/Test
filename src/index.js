@@ -17,6 +17,6 @@ app.get('/', (req, res) => {
   res.send('<h1>Lmao this is my site</h1>');
 });
 
-app.listen(5000, () => {
-  console.log('App listening on port 5000!');
-});
+console.log('hello')
+
+
